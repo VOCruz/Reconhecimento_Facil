@@ -1,6 +1,6 @@
 # Reconhecimento_Facil
 
-  O objetivo desse trabalho é construir um algoritimo para reconhecimento facial 
+O objetivo desse trabalho é construir um algoritimo para reconhecimento facial 
 com os modelos SVM e PCA utilizando OpenCV.
 
 “Support Vector Machine” (SVM) é um algoritmo de aprendizado de máquina
@@ -14,7 +14,7 @@ Os “Vetores de suporte” são simplesmente as coordenadas da observação
 individual. Support Vector Machine é uma fronteira que melhor segrega as duas
 classes (hiperplano / linha).
 
-“Principal Component Analysis” (PCA) é fundamentalmente um algoritmo de redução 
+“Principal Component Analysis” (PCA) é fundamentalmente um algoritmo não supervisionado de redução 
 de dimensionalidade, mas também pode ser útil como uma ferramenta para visualização,
 para filtragem de ruído, para extração de recursos e engenharia e muito mais.
 
