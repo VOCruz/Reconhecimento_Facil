@@ -1,1 +1,3 @@
 # Reconhecimento_Facil
+
+# Olá, tive alguns problemas e ainda estou editando o vídeo...
