@@ -1,4 +1,4 @@
-# Reconhecimento_Facil
+# Reconhecimento Facil
 
 O objetivo desse trabalho é construir um algoritimo para reconhecimento facial 
 com os modelos SVM e PCA utilizando OpenCV.
